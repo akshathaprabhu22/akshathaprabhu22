@@ -8,7 +8,7 @@ I am Akshatha, an Economics graduate experienced in Business Analytics and Econo
 
 Coming from a liberal arts background, I enjoy exploring interdisciplinary fields and thrive in environments that prioritize continuous learning and skill diversification. Currently, I'm pursuing a Masters in Business Analytics at the University of Maryland, where I'm furthering my journey in data science and business intelligence. My ultimate goal is to leverage my background in Economics and Analytics to bridge the gap between economic theory and practice in the realm of business analytics. 
 
-Outside of work, I enjoy watching history documentaries and historical fiction shows! 
+Outside of work, you can catch me watching history documentaries or historical fiction shows. 
 
 ## My skills:
 
