@@ -14,7 +14,7 @@ Outside of work, I enjoy watching history documentaries and historical fiction s
 
 ### Programming Languages/Database Tools:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python Logo" width="90"/><img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" alt="RStudio Logo" width="70"/> <img src="https://github.com/akshathaprabhu22/Akshatha-Prabhu/assets/170467801/99dd6a88-8f02-43b6-8626-8c521411b31e" width="70"/> <img src="https://media.licdn.com/dms/image/C5612AQHr47W1uGXrDw/article-cover_image-shrink_600_2000/0/1649218981432?e=2147483647&v=beta&t=ERM5vzRKZt8ebBAYHKpOOguoSaXN1AZDOJCiwMwXYU4" width="125"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python Logo" width="90"/><img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" alt="RStudio Logo" width="70"/> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASql_data_base_with_logo.png&psig=AOvVaw2nhfsFGWe50z3JZJAUBfhx&ust=1718563326116000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD_gLih3oYDFQAAAAAdAAAAABAE" width="70"/> <img src="https://media.licdn.com/dms/image/C5612AQHr47W1uGXrDw/article-cover_image-shrink_600_2000/0/1649218981432?e=2147483647&v=beta&t=ERM5vzRKZt8ebBAYHKpOOguoSaXN1AZDOJCiwMwXYU4" width="125"/> 
 
 ### Reporting/ Visualization tools:
 
