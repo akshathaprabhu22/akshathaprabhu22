@@ -14,7 +14,7 @@ Outside of work, I enjoy watching history documentaries and historical fiction s
 
 ### Programming Languages/Database Tools:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python Logo" width="90"/><img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" alt="RStudio Logo" width="70"/> <img src="https://media.licdn.com/dms/image/C5612AQHr47W1uGXrDw/article-cover_image-shrink_600_2000/0/1649218981432?e=2147483647&v=beta&t=ERM5vzRKZt8ebBAYHKpOOguoSaXN1AZDOJCiwMwXYU4" width="125"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python Logo" width="90"/><img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" alt="RStudio Logo" width="70"/> <img src="https://media.licdn.com/dms/image/C5612AQHr47W1uGXrDw/article-cover_image-shrink_600_2000/0/1649218981432?e=2147483647&v=beta&t=ERM5vzRKZt8ebBAYHKpOOguoSaXN1AZDOJCiwMwXYU4" width="115"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" alt="Numpy Logo" width="90"/> 
 
 ### Reporting/ Visualization tools:
 
