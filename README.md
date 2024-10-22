@@ -32,12 +32,22 @@ Python libraries:
 
 R libraries:
 
-- **readr**          - **randomForest**
-- **tidyverse**      - **xgboost**
-- **tree**           - **stats**
-- **plotly**         - **knitr**
-- **dplyr**          - **caret**
-- **tidyr**          - **ggplot2**
+
+- **tidyverse**: A collection of R packages for data science, designed for data manipulation and visualization.
+- **dplyr**: A grammar of data manipulation, providing a consistent set of verbs to help you solve the most common data manipulation challenges.
+- **tidyr**: A package for tidying data, making it easier to work with.
+- **ggplot2**: A system for declaratively creating graphics, based on The Grammar of Graphics.
+- **plotly**: A library for creating interactive graphs.
+- **knitr**: A package for dynamic report generation in R, allowing for the integration of R code into documents.
+
+## Statistical Modeling and Machine Learning
+
+- **stats**: The base package in R for statistical functions and modeling.
+- **randomForest**: An implementation of the random forest algorithm for classification and regression.
+- **xgboost**: A scalable and efficient implementation of gradient boosting framework for machine learning.
+- **caret**: A unified interface for creating predictive models across different algorithms.
+- **tree**: A package for creating classification and regression trees.
+
 
 
              
