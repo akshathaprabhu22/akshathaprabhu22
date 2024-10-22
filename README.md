@@ -32,11 +32,12 @@ Python libraries:
 
 R libraries:
 
-* readr                * tidyverse       * tree
-* knitr                * ggplot2         * xgboost
-* plotly               * dplyr           * randomForest
-* stats                * knitr           * caret  
-* tidyr             
+* readr                * tidyverse       * tree            * plotly               * dplyr           * randomForest
+* stats                * knitr           * caret           * tidyr                * knitr           * ggplot2
+* xgboost
+          
+
+
              
 
                                         
