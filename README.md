@@ -14,7 +14,7 @@ Outside of work, you can catch me watching history documentaries or historical f
 
 ### Programming Languages/Database Tools:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python Logo" width="90"/><img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" alt="RStudio Logo" width="70"/> <img src="https://media.licdn.com/dms/image/C5612AQHr47W1uGXrDw/article-cover_image-shrink_600_2000/0/1649218981432?e=2147483647&v=beta&t=ERM5vzRKZt8ebBAYHKpOOguoSaXN1AZDOJCiwMwXYU4" width="115"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" alt="Numpy Logo" width="90"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python Logo" width="90"/><img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm968T5Um3hNW1F9-p2caKuPcn7e9D_6UEow&s" alt="RStudio Logo" width="70"/> <img src="https://media.licdn.com/dms/image/C5612AQHr47W1uGXrDw/article-cover_image-shrink_600_2000/0/1649218981432?e=2147483647&v=beta&t=ERM5vzRKZt8ebBAYHKpOOguoSaXN1AZDOJCiwMwXYU4" width="115"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" alt="Numpy Logo" width="90"/> 
 
 ### Reporting/ Visualization tools:
 
