@@ -40,7 +40,7 @@ R libraries:
 - **plotly**: A library for creating interactive graphs.
 - **knitr**: A package for dynamic report generation in R, allowing for the integration of R code into documents.
 
-### Statistical Modeling and Machine Learning
+Statistical Modeling:
 
 - **stats**: The base package in R for statistical functions and modeling.
 - **randomForest**: An implementation of the random forest algorithm for classification and regression.
