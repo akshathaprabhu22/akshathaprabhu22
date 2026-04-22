@@ -1,24 +1,11 @@
-## Akshatha Prabhu
+
+# 👋 I'm Akshatha
 ### Associate Product Manager II (AI/ML Products) @ HiLabs
+Product Manager | AI/ML | Healthcare Analytics
+Building AI systems that automate provider data validation and compliance workflows for Fortune 500 health insurers at HiLabs. Economics + analytics background. 
 
-I am a Product Manager with a strong foundation in data science and analytics, 
-currently working on AI/ML products at HiLabs, a health-tech B2B SaaS company building 
-intelligent solutions for U.S. health insurers.
-
-Working across product, data science, and data engineering has given me a 
-practical understanding of how analytics can help businesses tackle real 
-operational challenges. From validating ML model outputs to reduce customer 
-churn for a loan product, to translating data compliance requirements into 
-product logic for health insurers to reduce compliance fines, I have learned 
-to apply data not just for reporting, but for operational efficiency, revenue 
-optimization, and data accuracy at scale.
-
-At HiLabs, I work on AI-powered B2B SaaS systems that automate provider data 
-validation, reduce manual compliance workflows, and improve data accuracy for 
-regulated healthcare environments, contributing to measurable outcomes 
-including saving insurers $20M in operational and compliance costs and 
-significant reductions in provider data errors.
-
+# Why I Build in Public
+I learn by building. SQL databases, data analysis, ML models—these projects are how I stay sharp on the fundamentals while working on production systems as a product manager.
 ---
 
 ### 💼 Product Skills
