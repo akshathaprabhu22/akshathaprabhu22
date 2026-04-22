@@ -4,10 +4,10 @@
 Product Manager | AI/ML | Healthcare Analytics
 Building AI systems that automate provider data validation and compliance workflows for Fortune 500 health insurers at HiLabs. Economics + analytics background. 
 
-**Why I Build in Public**
+# Why I Build in Public
  
 I learn by building. SQL databases, data analysis, ML models—these projects are how I stay sharp on the fundamentals while working on production systems as a product manager.
----
+
 
 ### 💼 Product Skills
 
